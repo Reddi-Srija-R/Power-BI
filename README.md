@@ -24,6 +24,6 @@ Dashboard:
 - View a comprehensive overview of the data from the previous sheets, with interactive visualizations to help identify key trends and insights.
 - Provides an integrated view with interactive visualizations to help users quickly grasp key trends and insights.
 
-![Dashboard overview]([https://github.com/yourusername/yourrepository/blob/main/assets/logo.png](https://github.com/Reddi-Srija-R/Power-BI/blob/main/Dashboard%20overview.png?raw=true))
+![Dashboard overview](https://github.com/Reddi-Srija-R/Power-BI/blob/main/Dashboard%20overview.png?raw=true)
 
 Thank you!
