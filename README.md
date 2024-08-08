@@ -6,8 +6,6 @@ This repository contains a Power BI (.pbix) file that provides a detailed analys
 
 World Health Organization (WHO): Data used in this dashboard is sourced from the WHO and includes global statistics on malaria.
 
-Link: 
-
 `Features`
 
 Testing and Diagnosis:
